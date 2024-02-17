@@ -2,7 +2,7 @@
 
 My first project - recipes  
 
-The project is based on using the tools and information provided by the Odin project to create a basic recipe website. The project is designed to gain familiarity with HTML and Git. 
+The project is based on using the tools and information provided by the Odin project to create a basic recipe website. The project is designed to gain familiarity with HTML and Git. Further improvements, such as implementing CSS, have been introduced. The project will be expanded on in the future. 
 
 References
 
@@ -17,5 +17,7 @@ Potato salad image: DOTDASH MEREDITH FOOD STUDIOS (https://www.allrecipes.com/re
 Spaghetti bolognese information: https://www.bbcgoodfood.com/recipes/best-spaghetti-bolognese-recipe
 
 Spaghetti bolognese image: https://leitesculinaria.com/352637/recipes-spaghetti-bolognese.html
+
+
 
 
